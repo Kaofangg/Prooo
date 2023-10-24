@@ -1,0 +1,87 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Nihira",
+      "password": "admin",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "country": "usa",
+      "address": "",
+      "role": "admin",
+      "gender": "female"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "role": "user",
+      "gender": "male"
+    },
+    {
+      "id": "Fang",
+      "name": "Fang",
+      "password": "1234",
+      "email": "Fang@gmail.com",
+      "phone": "0545454",
+      "country": "india",
+      "address": "asdawdasd",
+      "gender": "male"
+    },
+    {
+      "id": "Kaofang",
+      "name": "dsdasd",
+      "password": "12345",
+      "email": "fasdf@gmail.com",
+      "phone": "054654",
+      "country": "india",
+      "address": "sadawda",
+      "gender": "male"
+    },
+    {
+      "id": "kaofang",
+      "name": "kaofang",
+      "password": "12345",
+      "email": "minimond742@gmail.com",
+      "phone": "0987654321"
+    },
+    {
+      "id": "jummum",
+      "name": "Sornsawan Paianan",
+      "password": "2545",
+      "email": "sornsawan@gmail.com",
+      "phone": "0987654321"
+    },
+    {
+      "id": "Kaofanggg",
+      "name": "sadad",
+      "password": "12345",
+      "email": "sdada@gmail.com",
+      "phone": "24343424"
+    }
+  ],
+  "employee": [
+    {
+      "id": 3,
+      "name": "Robert",
+      "email": "robert@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 4,
+      "name": "Kane Williamson",
+      "email": "kw@in.com",
+      "phone": "908908767"
+    },
+    {
+      "id": 5,
+      "name": "vikram",
+      "email": "vikram@in.com",
+      "phone": "908908767"
+    }
+  ]
+}
